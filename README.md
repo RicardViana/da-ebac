@@ -1,2 +1,2 @@
-# da-ebac
-Repositorio criado durante o curso de Analista de Dados da EBAC
+# Repositorio Ebac
+Repositorio criado durante o modulo Controle de Versao do curso de Analista de Dados da EBAC 
